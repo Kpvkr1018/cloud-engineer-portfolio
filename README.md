@@ -40,8 +40,10 @@ by-step solutions.
 ---
 
 ## Achievements
-- Participated in Hackathon Event                                                                                                                                   - Python Certificate in DataCamp
-- Participated in technical fest 2024                                                                                                                               - Participated in AWS Cloud trainin
+- Participated in Hackathon Event
+- Python Certificate in DataCamp
+- Participated in technical fest 2024
+- Participated in AWS Cloud trainin
 
 ## 📬 Contact
 - GitHub: https://github.com/Kpvkr1018

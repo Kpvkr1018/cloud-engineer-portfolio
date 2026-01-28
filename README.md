@@ -15,7 +15,7 @@ I am passionate about building scalable and reliable cloud solutions.
 ---
 
 ## 📂 Projects
-Projects are listed below with detailed documentation.
+
 Website on Movie Ticket Online Booking | HTML, CSS, Python, MySQL                                                        
 • Implemented features such as movie listings, seat selection, showtime scheduling, and real-time 
 availability.  

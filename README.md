@@ -16,16 +16,27 @@ I am passionate about building scalable and reliable cloud solutions.
 
 ## 📂 Projects
 Projects are listed below with detailed documentation.
-
+Website on Movie Ticket Online Booking | HTML, CSS, Python, MySQL                                                        
+• Implemented features such as movie listings, seat selection, showtime scheduling, and real-time 
+availability.  
+• Implemented database management (MySQL/MongoDB) for storing user data, bookings, and movie 
+records. Improves load time and improves mobile responsiveness. 
+• Conducted testing for functionality, validation, security, and error handling to ensure a smooth 
+user experience. 
 ---
 
 ## 🎓 Certifications
 - AWS Academy Cloud Foundations
 - AWS Academy Cloud Architecting
+- Data Structures and Algorithm | NeoColab
 
 ---
 
+## Achievements
+- Participated in Hackathon Event                                                                                                                                   - Python Certificate in DataCamp
+- Participated in technical fest 2024                                                                                                                               - Participated in AWS Cloud trainin
+
 ## 📬 Contact
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/Kpvkr1018
 - LinkedIn: ADD_LATER
-- Email: ADD_LATER
+- Email: ky1222372@gmail.com

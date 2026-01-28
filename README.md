@@ -23,12 +23,19 @@ availability.
 records. Improves load time and improves mobile responsiveness. 
 • Conducted testing for functionality, validation, security, and error handling to ensure a smooth 
 user experience. 
+
+Sudoku Game Solver | Java, C++, Python, C 
+• Developed a Sudoku game solver using [Python/C++/Java] implementing a backtracking algorithm. 
+• Built an interactive game interface (GUI/web interface) allowing users to enter puzzles and view step
+by-step solutions. 
+• Implemented additional features like hint generation, puzzle difficulty levels, and auto-fill suggestions. 
+
 ---
 
 ## 🎓 Certifications
-- AWS Academy Cloud Foundations
-- AWS Academy Cloud Architecting
-- Data Structures and Algorithm | NeoColab
+- Android for Beginners | Coursera  
+- JavaScript BootCamp | JS
+- Data Structures and Algorithm | NeoColab          
 
 ---
 
@@ -38,5 +45,5 @@ user experience.
 
 ## 📬 Contact
 - GitHub: https://github.com/Kpvkr1018
-- LinkedIn: ADD_LATER
+- LinkedIn: https://in.linkedin.com/in/kapil-yadav-266706298
 - Email: ky1222372@gmail.com
